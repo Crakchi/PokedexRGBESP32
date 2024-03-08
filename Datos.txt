@@ -1,0 +1,12 @@
+ice-      mamoswine
+psiquico- mewtwo
+poison-   arbok      24
+lucha-    machamp
+steel-    
+grass-    bulbasaur  1
+water-    squirtle   7
+fire-	  charizard  6
+bug-      caterpie   10
+Elec
+
+salinas@rivera.com
