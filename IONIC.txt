@@ -1,3 +1,8 @@
+https://github.com/Crakchi/Sumativa_PokeSaliRiv
+
+Ese es el repositorio del IONIC
+
+
 ice-      mamoswine
 psiquico- mewtwo
 poison-   arbok      24
